@@ -1,0 +1,2 @@
+# golangtests
+Various golang tests
